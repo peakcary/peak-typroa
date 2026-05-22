@@ -1,7 +1,0 @@
-{
-  "tool_name": "Read",
-  "tool_input_preview": "{\"file_path\":\"/Users/peakom/Documents/work/peak-typroa/服务器/acme-sh-ssl-配置文档.md\",\"offset\":80,\"limit\":20}",
-  "error": "File does not exist. Note: your current working directory is /Users/peakom/Documents/work/peak-typroa.",
-  "timestamp": "2026-05-22T08:31:55.254Z",
-  "retry_count": 1
-}
