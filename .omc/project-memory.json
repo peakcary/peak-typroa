@@ -1,0 +1,141 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1779438655888,
+  "projectRoot": "/Users/peakom/Documents/work/peak-typroa",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "AI": {
+      "path": "AI",
+      "purpose": null,
+      "fileCount": 12,
+      "lastAccessed": 1779438655851,
+      "keyFiles": [
+        "14个爆火MCP资源库，让你的AI Agent能力翻倍！.md",
+        "AI Agent 在 1688 电商平台中的应用.md",
+        "AI知识同步.md",
+        "RAG+AI工作流+Agent：LLM框架该如何选择，全面对比MaxKB、Dify等.md",
+        "claude-installation-guide.md"
+      ]
+    },
+    "Temp": {
+      "path": "Temp",
+      "purpose": null,
+      "fileCount": 14,
+      "lastAccessed": 1779438655852,
+      "keyFiles": [
+        "20260522.md",
+        "Untitled 1.md",
+        "Untitled 2.md",
+        "Untitled.md",
+        "auth-vue-integration.md"
+      ]
+    },
+    "bd": {
+      "path": "bd",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1779438655853,
+      "keyFiles": [
+        "CRM系统产品需求文档.md",
+        "CRM系统技术架构方案.md",
+        "CRM系统数据库设计方案.md",
+        "CRM系统都需要哪些ai功能.md",
+        "数用一体化是企业数字化能力构建的“最优解”.md"
+      ]
+    },
+    "engineering": {
+      "path": "engineering",
+      "purpose": null,
+      "fileCount": 12,
+      "lastAccessed": 1779438655855,
+      "keyFiles": [
+        "study-lerna.md",
+        "工程化-Readme模版.md",
+        "工程化-git多账号配置mac.md",
+        "工程化-git提交commit规范.md",
+        "工程化-git提交eslint规范.md"
+      ]
+    },
+    "frontend": {
+      "path": "frontend",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1779438655857,
+      "keyFiles": [
+        "CSS 单位指南：CSS em、rem、vh、vw 等详解.md"
+      ]
+    },
+    "mac": {
+      "path": "mac",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1779438655858,
+      "keyFiles": [
+        "Git中文文件名显示问题解决方案.md",
+        "SSH_问题修复记录.md"
+      ]
+    },
+    "other": {
+      "path": "other",
+      "purpose": null,
+      "fileCount": 6,
+      "lastAccessed": 1779438655861,
+      "keyFiles": [
+        "Share-Webpack.md",
+        "Study-Git多账号设置.md",
+        "别让孩子吃低级的苦，吃高级的苦，才能得到高级的人生.md",
+        "心理学家陈默：中国孩子已经变了，但家长却还没跟上.md",
+        "技术-git Tag和Branch.md"
+      ]
+    },
+    "project": {
+      "path": "project",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1779438655864,
+      "keyFiles": []
+    },
+    "study": {
+      "path": "study",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1779438655866,
+      "keyFiles": [
+        "book推荐.md",
+        "es6使用.md",
+        "prisma.md",
+        "前端技术架构文档.md"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}
